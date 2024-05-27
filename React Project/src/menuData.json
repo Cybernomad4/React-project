@@ -1,0 +1,132 @@
+[
+    {
+      "id": 1,
+      "name": "Маргарита",
+      "unitPrice": 3000,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-1.jpg",
+      "ingredients": [
+        "помидоры",
+        "моцарелла",
+        "базилик"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 2,
+      "name": "Капричоза",
+      "unitPrice": 4000,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-2.jpg",
+      "ingredients": [
+        "помидоры",
+        "моцарелла",
+        "ветчина",
+        "грибы",
+        "артишок"
+      ],
+      "soldOut": true
+    },
+    {
+      "id": 3,
+      "name": "Римская",
+      "unitPrice": 3500,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-3.jpg",
+      "ingredients": [
+        "помидоры",
+        "моцарелла",
+        "прошутто"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 4,
+      "name": "Прошутто и Рукола",
+      "unitPrice": 4500,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-4.jpg",
+      "ingredients": [
+        "помидоры",
+        "моцарелла",
+        "прошутто",
+        "рукола"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 5,
+      "name": "Диабло",
+      "unitPrice": 4000,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-5.jpg",
+      "ingredients": [
+        "помидоры",
+        "моцарелла",
+        "острая салями",
+        "перец чили"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 6,
+      "name": "Веганская",
+      "unitPrice": 2500,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-6.jpg",
+      "ingredients": [
+        "помидоры",
+        "моцарелла",
+        "перец",
+        "лук",
+        "грибы"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 7,
+      "name": "Неаполитанская",
+      "unitPrice": 3500,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-7.jpg",
+      "ingredients": [
+        "помидоры",
+        "моцарелла",
+        "свежие помидоры",
+        "базилик"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 8,
+      "name": "Сицилийская",
+      "unitPrice": 4000,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-8.jpg",
+      "ingredients": [
+        "помидоры",
+        "моцарелла",
+        "анчоусы",
+        "оливки",
+        "каперсы"
+      ],
+      "soldOut": true
+    },
+    {
+      "id": 9,
+      "name": "Пепперони",
+      "unitPrice": 3000,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-9.jpg",
+      "ingredients": [
+        "помидоры",
+        "моцарелла",
+        "пепперони"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 10,
+      "name": "Гавайская",
+      "unitPrice": 3500,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-10.jpg",
+      "ingredients": [
+        "помидоры",
+        "моцарелла",
+        "ананас",
+        "ветчина"
+      ],
+      "soldOut": false
+    }
+  ]
